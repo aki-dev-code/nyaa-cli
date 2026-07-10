@@ -15,7 +15,7 @@ The default video player is VLC. But you can specify another player by setting t
 
 ## From releases
 
-Releases contains prebuilt binaries for Linux, macOS and Windows. You can download them at https://github.com/quantumsheep/nyaa-cli/releases.
+Releases contains prebuilt binaries for Linux, macOS and Windows.
 
 ## From GitHub Actions
 
