@@ -19,7 +19,7 @@ Releases contains prebuilt binaries for Linux, macOS and Windows.
 
 ## From GitHub Actions
 
-Each commit is built and saved as GitHub Actions artifacts. You can download the latest version from the [GitHub Actions page](https://github.com/quantumsheep/nyaa-cli/actions?query=event%3Apush+is%3Asuccess+branch%3Amain).
+Each commit is built and saved as GitHub Actions artifacts. You can download the latest version from the [GitHub Actions page](https://github.com/aki-dev-code/nyaa-cli/actions?query=event%3Apush+is%3Asuccess+branch%3Amain).
 
 ## From sources
 
